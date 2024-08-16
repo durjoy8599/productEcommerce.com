@@ -1,0 +1,121 @@
+{
+    "1": {
+        "name": "Product 1",
+        "description": "Stylish and comfortable!",
+        "price": 150.0,
+        "image_url": "/static/images/products/mens/product1.jpeg",
+        "section": "mens"
+    },
+    "2": {
+        "name": "Product 2",
+        "description": "Elegant and in style!",
+        "price": 200.0,
+        "image_url": "/static/images/products/mens/product2.jpeg",
+        "section": "mens"
+    },
+    "3": {
+        "name": "Product 3",
+        "description": "Casual and versatile!",
+        "price": 180.0,
+        "image_url": "/static/images/products/mens/product3.jpeg",
+        "section": "mens"
+    },
+    "4": {
+        "name": "Product 4",
+        "description": "Perfect for any occasion!",
+        "price": 220.0,
+        "image_url": "/static/images/products/mens/product4.jpeg",
+        "section": "mens"
+    },
+    "5": {
+        "name": "Product 5",
+        "description": "Trendy and affordable!",
+        "price": 170.0,
+        "image_url": "/static/images/products/mens/product5.jpeg",
+        "section": "mens"
+    },
+    "6": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 70% off! Your fresh look! Designed with you in mind...",
+        "price": 160.0,
+        "image_url": "/static/images/products/womens/product6.jpg",
+        "section": "womens"
+    },
+    "7": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 250.0,
+        "image_url": "/static/images/products/womens/product7.jpg",
+        "section": "womens"
+    },
+    "8": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 170.0,
+        "image_url": "/static/images/products/womens/product8.jpg",
+        "section": "womens"
+    },
+    "9": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 120.0,
+        "image_url": "/static/images/products/womens/product9.jpg",
+        "section": "womens"
+    },
+    "10": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 320.0,
+        "image_url": "/static/images/products/womens/product10.jpg",
+        "section": "womens"
+    },
+    "11": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 70% off! Your fresh look! Designed with you in mind...",
+        "price": 160.0,
+        "image_url": "/static/images/products/more/product11.jpeg",
+        "section": "more"
+    },
+    "12": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 250.0,
+        "image_url": "/static/images/products/more/product12.jpeg",
+        "section": "more"
+    },
+    "13": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 170.0,
+        "image_url": "/static/images/products/more/product13.jpeg",
+        "section": "more"
+    },
+    "14": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 120.0,
+        "image_url": "/static/images/products/more/product14.jpeg",
+        "section": "more"
+    },
+    "15": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 320.0,
+        "image_url": "/static/images/products/more/product15.jpeg",
+        "section": "more"
+    },
+    "16": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 320.0,
+        "image_url": "/static/images/products/more/product16.jpeg",
+        "section": "more"
+    },
+    "17": {
+        "name": "Sunglasses",
+        "description": "Elegant and in style! Get the hottest styles at 65% off! Your fresh look! Designed with you in mind...",
+        "price": 320.0,
+        "image_url": "/static/images/products/more/product17.jpeg",
+        "section": "more"
+    }
+}
